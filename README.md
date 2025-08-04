@@ -22,3 +22,8 @@ Figura del ensamble final de ESMET
 <img width="727" height="340" alt="image" src="https://github.com/user-attachments/assets/e73e4ae3-7675-45b1-b3a3-667eb90bc264" />
 
 Figura del circuito de conexiones 
+
+<img width="330" height="540" alt="image" src="https://github.com/user-attachments/assets/1563b4bc-2610-4334-91a3-fcfaa5f6700d" />
+
+Figura de la estacion meteorologica en fisico 
+
