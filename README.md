@@ -9,9 +9,9 @@ En el repositorio correspondiente se encuentran los recursos desarrollados, que 
 
  -La simulación de las conexiones eléctricas en Proteus.
 
--El ensamble del modelo CAD junto con las piezas asociadas. /
+-El ensamble del modelo CAD junto con las piezas asociadas. 
 
--Un código de prueba inicial empleado en la fase de validación. /
+-Un código de prueba inicial empleado en la fase de validación. 
 
 Para una mejor comprensión y visualización, a continuación, se presentan las figuras correspondientes al ensamble físico del prototipo y al diagrama del circuito simulado.
 
