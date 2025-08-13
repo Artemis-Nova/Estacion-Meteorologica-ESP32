@@ -1,4 +1,5 @@
 Estación Meteorológica basada en ESP32
+
 Este proyecto consiste en el diseño e implementación de un prototipo de estación meteorológica con tecnología IoT, orientado a la medición y registro de variables atmosféricas en tiempo real.
 Su objetivo principal es ofrecer datos confiables de temperatura, humedad relativa, presión atmosférica y velocidad del viento, aplicables en contextos educativos, de investigación o como base para soluciones avanzadas de monitoreo ambiental.
 
